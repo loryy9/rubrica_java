@@ -1,0 +1,2 @@
+51198|Iphone 16|500,00|vendere|apple;iphone;|2027-02-10|utente 1|
+40438|Iphone 15|400,00|vendere|apple;iphone;|2026-02-10|utente 2|
